@@ -327,8 +327,6 @@ minimisation approach to trajectory generation, I did not find as many blog post
 opted for this technique, as most articles were about using the spline technique in the tutorial from David and Aaron. 
 But the paper from Werling and Kammel on [Optimal Trajectory Generation For Dynamic Street Scenarios in a Frenet Frame](http://video.udacity-data.com.s3.amazonaws.com/topher/2017/July/595fd482_werling-optimal-trajectory-generation-for-dynamic-street-scenarios-in-a-frenet-frame/werling-optimal-trajectory-generation-for-dynamic-street-scenarios-in-a-frenet-frame.pdf) really helped improve my 
 intuition on how to use this topic.
-I particularly enjoyed and felt inspired by Mithi's [articles](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-2-3-392bc6cf11e7) on this 
-project, as well as posts by other students.
 Lastly, I am grateful to all the team at Udacity at 
 their partners at Daimler to have put together such a 
 great content and challenging project!
